@@ -1,6 +1,6 @@
 package com.mycompany.studentlist;
 
-
+// this is the studentList class
 public class StudentList {
     public static void main(String[]args){
       Student [] studentList;
